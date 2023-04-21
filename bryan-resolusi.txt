@@ -2,3 +2,5 @@ Bryan Resolusi
 - Kosisten Belajar programming tiap hari
 - Menambah skill baru
 - mendapatkan pekerjaan
+- Membuat project web stock barang toko
+- Belajar mengenai react native untuk mobile
