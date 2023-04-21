@@ -4,3 +4,5 @@ Bryan Resolusi
 - mendapatkan pekerjaan
 - Membuat project web stock barang toko
 - Belajar Flutter
+- Belajar React Native
+- Mendalami CSS
